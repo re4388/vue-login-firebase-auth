@@ -1,4 +1,4 @@
-# Vue-auth
+# Vue-Vuex-login-firebase-auth
 
 ## original author and source
 1. fork from: [Atanda1/vue-auth](https://github.com/Atanda1/vue-auth)
