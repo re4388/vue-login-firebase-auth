@@ -5,6 +5,11 @@
 2. tutorial: [Tackling Authentication With Vue Using RESTful APIs | CSS-Tricks](https://css-tricks.com/tackling-authentication-with-vue-using-restful-apis/)
 
 
+## 學習綱要
+- 使用firebase auth / username password
+- Vue 整合fireabase auth SDK and Vuex 實現login, logout, routing, autologin, localstorage
+
+
 ## Learning Points:
 1. Commonet Evnet flow: Event(click in .vue) -dispatch-> actions (store.js) -commi-> mutation(store.js) -change-> state(store.js)
 2. log inside your store.js action funciton, like logout, 除了 commit mutaiton外，還需要清楚資料（這裡是放在local storage）和route到logout的頁面（這裡用vue-router的指令：router.replace('/')）
